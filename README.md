@@ -1,62 +1,37 @@
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" height="80" />
 
-  <!-- Animated Hand Wave and Introduction -->
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65" />
-    <h1 style="margin-left: 10px;">Hello, I'm Danish</h1>
-  </div>
+  <h1>Hello World! I'm Danish</h1>
+  <h3>🚀 Full Stack Developer from Bangalore, India 🇮🇳</h3>
 
-  <!-- Animated Text -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=CA6AFD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;From+Bangalore%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-  </div>
+  <p align="center">
+    <samp>
+      「 Building scalable applications with Next.js, Node.js & Python 」
+    </samp>
+  </p>
+</div>
 
-  <!-- Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
+    Tech Stack
+  </h2>
 
-  <!-- Main Content -->
-  <h2>⚡️ Design • Develop • Debug ⚡️</h2>
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-  <!-- Tech Stack Section with Custom Styling -->
-  <h2>🛠️ Technology Arsenal</h2>
-  
-  <!-- Frontend -->
-  <h3>Frontend Spectrum 🎨</h3>
-  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  
-  <!-- Backend -->
-  <h3>Backend Force 🔧</h3>
-  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-  <!-- Database & Cloud -->
-  <h3>Database & Cloud ☁️</h3>
-  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-  <!-- Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <!-- Profile Views Counter -->
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blueviolet&style=for-the-badge&label=Profile+Visitors" alt="Profile Views"/>
-  </div>
-
-  <!-- Footer Quote -->
-  <div align="center">
-    <h3>💭 "First, solve the problem. Then, write the code."</h3>
-    <h4>- John Johnson</h4>
-  </div>
-
-  <!-- Footer Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <p align="center">
+    <samp>
+      "Clean code always looks like it was written by someone who cares."
+    </samp>
+  </p>
 </div>

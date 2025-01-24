@@ -13,8 +13,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
-    Tech Stack
+    ⚡ Tech Stack
   </h2>
 
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)

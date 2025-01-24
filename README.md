@@ -1,7 +1,5 @@
 <div align="center">
   
-  <!-- Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Danish&fontSize=70&fontColor=fff&animation=tiltLeft&fontAlignY=35"/>
 
   <!-- Animated Hand Wave and Introduction -->
   <div style="display: flex; align-items: center; justify-content: center;">

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" height="80" />
 
-  <h1>Hello World! I'm Danish</h1>
+  <h1>Hello World! I'm Joseph</h1>
   <h3>🚀 Full Stack Developer from Bangalore, India 🇮🇳</h3>
 
   <p align="center">
